@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="55076931-88c5-4891-888b-ed59cb49dddc" name="Default Changelist" comment="" />
+    <list default="true" id="55076931-88c5-4891-888b-ed59cb49dddc" name="Default Changelist" comment="first">
+      <change afterPath="$PROJECT_DIR$/music.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,6 +23,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -27,6 +40,36 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="music" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="homework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/music.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.music" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -39,16 +82,115 @@
       <option name="presentableId" value="Default" />
       <updated>1595756625088</updated>
       <workItem from="1595756626539" duration="368000" />
+      <workItem from="1595756997791" duration="565000" />
+      <workItem from="1596206421951" duration="3930000" />
     </task>
+    <task id="LOCAL-00001" summary="first">
+      <created>1595757033730</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1595757033730</updated>
+    </task>
+    <task id="LOCAL-00002" summary="first">
+      <created>1596209461436</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1596209461437</updated>
+    </task>
+    <task id="LOCAL-00003" summary="3week 짭짤한맛">
+      <created>1596209609049</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1596209609049</updated>
+    </task>
+    <task id="LOCAL-00004" summary="3week 짭짤한맛">
+      <created>1596209696918</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1596209696918</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first" />
+    <MESSAGE value="3주차 짭짤한맛" />
+    <MESSAGE value="3week 짭짤한맛" />
+    <option name="LAST_COMMIT_MESSAGE" value="3week 짭짤한맛" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596206706317">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596206706317" />
     <state x="622" y="295" key="FileChooserDialogImpl" timestamp="1595756994248">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="622" y="295" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1595756994248" />
+    <state width="1340" height="266" key="GridCell.Tab.0.bottom" timestamp="1596215470782">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1596215470782" />
+    <state width="1340" height="266" key="GridCell.Tab.0.center" timestamp="1596215470782">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="266" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1596215470782" />
+    <state width="1340" height="266" key="GridCell.Tab.0.left" timestamp="1596215470782">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="266" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1596215470782" />
+    <state width="1340" height="266" key="GridCell.Tab.0.right" timestamp="1596215470782">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="266" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1596215470782" />
+    <state x="744" y="229" key="SettingsEditor" timestamp="1596207358939">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="744" y="229" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1596207358939" />
+    <state x="434" y="273" key="Vcs.Push.Dialog.v2" timestamp="1595757077103">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="434" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1595757077103" />
+    <state x="1036" y="348" width="900" height="779" key="dock-window-1" timestamp="1596215471040">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1036" y="348" width="900" height="779" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1596215471040" />
+    <state x="505" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1595757073887">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="505" y="259" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1595757073887" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/music.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/homework$music.coverage" NAME="music Coverage Results" MODIFIED="1596209380127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
