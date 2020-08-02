@@ -10,8 +10,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55076931-88c5-4891-888b-ed59cb49dddc" name="Default Changelist" comment="first">
-      <change beforePath="$PROJECT_DIR$/music.py" beforeDir="false" afterPath="$PROJECT_DIR$/music.py" afterDir="false" />
+    <list default="true" id="55076931-88c5-4891-888b-ed59cb49dddc" name="Default Changelist" comment="4주차달달한 맛">
+      <change beforePath="$PROJECT_DIR$/.idea/homework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/homework.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,8 +23,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -35,13 +37,36 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.app">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="homework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="music" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="homework" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -66,6 +91,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.app" />
         <item itemvalue="Python.music" />
       </list>
     </recent_temporary>
@@ -83,7 +109,8 @@
       <workItem from="1595756626539" duration="368000" />
       <workItem from="1595756997791" duration="565000" />
       <workItem from="1596206421951" duration="3930000" />
-      <workItem from="1596340695764" duration="7000" />
+      <workItem from="1596340695764" duration="1972000" />
+      <workItem from="1596377655317" duration="2715000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1595757033730</created>
@@ -113,7 +140,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596209696918</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="4주차달달한 맛">
+      <created>1596380262253</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1596380262253</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,37 +169,38 @@
     <MESSAGE value="first" />
     <MESSAGE value="3주차 짭짤한맛" />
     <MESSAGE value="3week 짭짤한맛" />
-    <option name="LAST_COMMIT_MESSAGE" value="3week 짭짤한맛" />
+    <MESSAGE value="4주차달달한 맛" />
+    <option name="LAST_COMMIT_MESSAGE" value="4주차달달한 맛" />
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596206706317">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596206706317" />
-    <state x="622" y="295" key="FileChooserDialogImpl" timestamp="1595756994248">
+    <state x="622" y="295" key="FileChooserDialogImpl" timestamp="1596342102692">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="622" y="295" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1595756994248" />
-    <state width="1340" height="266" key="GridCell.Tab.0.bottom" timestamp="1596215470782">
+    <state x="622" y="295" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1596342102692" />
+    <state width="1340" height="279" key="GridCell.Tab.0.bottom" timestamp="1596380057890">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1596215470782" />
-    <state width="1340" height="266" key="GridCell.Tab.0.center" timestamp="1596215470782">
+    <state width="1340" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1596380057890" />
+    <state width="1340" height="279" key="GridCell.Tab.0.center" timestamp="1596380057889">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="266" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1596215470782" />
-    <state width="1340" height="266" key="GridCell.Tab.0.left" timestamp="1596215470782">
+    <state width="1340" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1596380057889" />
+    <state width="1340" height="279" key="GridCell.Tab.0.left" timestamp="1596380057889">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="266" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1596215470782" />
-    <state width="1340" height="266" key="GridCell.Tab.0.right" timestamp="1596215470782">
+    <state width="1340" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1596380057889" />
+    <state width="1340" height="279" key="GridCell.Tab.0.right" timestamp="1596380057890">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="266" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1596215470782" />
-    <state x="744" y="229" key="SettingsEditor" timestamp="1596207358939">
+    <state width="1340" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1596380057890" />
+    <state x="744" y="229" key="SettingsEditor" timestamp="1596377751281">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="744" y="229" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1596207358939" />
+    <state x="744" y="229" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1596377751281" />
     <state x="434" y="273" key="Vcs.Push.Dialog.v2" timestamp="1595757077103">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -179,18 +214,8 @@
     </state>
     <state x="505" y="259" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1595757073887" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/music.py</url>
-          <line>23</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/homework$music.coverage" NAME="music Coverage Results" MODIFIED="1596209380127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/homework$app.coverage" NAME="app Coverage Results" MODIFIED="1596380057864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
